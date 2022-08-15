@@ -1,3 +1,3 @@
 # stepik_auto_tests_course
 
-Hello!
+Just a repository for python course!
